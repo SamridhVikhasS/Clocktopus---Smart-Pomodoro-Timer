@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clocktopus - Smart Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="home-screen">
+        <h1>🐙 Clocktopus – Smart Pomodoro Timer ⏳</h1>
+        <p>Boost focus with structured work sessions and timely breaks!</p>
+        <div id="session-options">
+            <label><input type="radio" name="session" value="1"> 1 min (Test)</label>
+            <label><input type="radio" name="session" value="20"> 20 min</label>
+            <label><input type="radio" name="session" value="30"> 30 min</label>
+            <label><input type="radio" name="session" value="45"> 45 min</label>
+            <label><input type="radio" name="session" value="60"> 1 hr</label>
+            <label><input type="radio" name="session" value="90"> 1 hr 30 min</label>
+            <label><input type="radio" name="session" value="120"> 2 hr</label>
+        </div>
+        <button id="start-btn">Start Timer</button>
+    </div>
+
+    <div id="timer-screen" class="hidden">
+        <h2 id="timer-label"></h2>
+        <p id="countdown"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

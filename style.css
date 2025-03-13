@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1e1e2e;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 20px;
+}
+
+#session-options {
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    font-size: 1.2rem;
+    margin: 5px;
+}
+
+button {
+    background-color: #ff9500;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #e08900;
+}
+
+#timer-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#countdown {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
