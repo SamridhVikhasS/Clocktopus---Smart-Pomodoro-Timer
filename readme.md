@@ -19,7 +19,8 @@ Clocktopus is a **personal project** I created for my own use, with the help of 
 I wanted a **distraction-free, structured timer** that keeps me productive while ensuring **healthy screen habits**. Instead of using existing apps, I decided to build my own **customized solution** with ChatGPT's assistance.  
 
 ## 🌐 Deployment  
-Clocktopus is deployed online so I can use it from anywhere. **[clocktopus.netlify.app]**  
+Clocktopus is deployed online so I can use it from anywhere.  
+🔗 **Live Link:** [Clocktopus Timer](clocktopus.netlify.app)  
 
 ## 🔗 Acknowledgments  
 - Built with **HTML, CSS, and JavaScript**  
