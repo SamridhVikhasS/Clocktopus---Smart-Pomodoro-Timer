@@ -20,7 +20,7 @@ I wanted a **distraction-free, structured timer** that keeps me productive while
 
 ## 🌐 Deployment  
 Clocktopus is deployed online so I can use it from anywhere.  
-🔗 **Live Link:** [Clocktopus Timer](clocktopus.netlify.app)  
+🔗 **Live Link:** [Clocktopus Timer](https://clocktopus.netlify.app)  
 
 ## 🔗 Acknowledgments  
 - Built with **HTML, CSS, and JavaScript**  
